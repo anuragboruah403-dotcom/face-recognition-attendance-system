@@ -1,0 +1,13 @@
+dataset/
+attendance.csv
+trained_model.yml
+labels.npy
+
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+
+.vscode/
+.env
